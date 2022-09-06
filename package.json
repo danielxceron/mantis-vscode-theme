@@ -1,0 +1,26 @@
+{
+  "name": "mantis-vscode-theme",
+  "displayName": "Mantis",
+  "description": "A personalization to my liking of the default Dark+ theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielxceron/mantis-vscode-theme"
+  },
+  "publisher": "danielxceron",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Mantis",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Mantis-color-theme.json"
+      }
+    ]
+  }
+}
