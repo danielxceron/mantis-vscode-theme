@@ -2,7 +2,7 @@
   "name": "mantis-vscode-theme",
   "displayName": "Mantis",
   "description": "A personalization to my liking of the default Dark+ theme.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.71.0"
   },
