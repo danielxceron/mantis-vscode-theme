@@ -1,6 +1,6 @@
 # Mantis VS Code theme
 
-![Mantis VS Code theme](https://raw.githubusercontent.com/danielxceron/mantis-vscode-theme/main/assets/img/screenshot.jpg)
+![Mantis VS Code theme](https://raw.githubusercontent.com/danielxceron/mantis-vscode-theme/main/assets/img/screenshot.png)
 
 # Install
 
