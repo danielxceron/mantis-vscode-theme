@@ -3,6 +3,10 @@
   "displayName": "Mantis",
   "description": "A personalization to my liking of the default Dark+ theme.",
   "version": "0.0.4",
+  "license": "MIT",
+  "author": {
+    "name": "Daniel Cerón Claros"
+  },
   "engines": {
     "vscode": "^1.71.0"
   },
