@@ -2,7 +2,7 @@
   "name": "mantis-vscode-theme",
   "displayName": "Mantis",
   "description": "A personalization to my liking of the default Dark+ theme.",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "license": "MIT",
   "author": {
     "name": "Daniel Cerón Claros"
@@ -24,11 +24,21 @@
         "label": "Dark Mantis",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark Mantis-color-theme.json"
+      },
+      {
+        "label": "Dark Mantis Aurora",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Mantis Aurora-color-theme.json"
+      },
+      {
+        "label": "Dark Mantis Eclipse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Mantis Eclipse-color-theme.json"
       }
     ]
   },
   "devDependencies": {
-    "@vscode/vsce": "^2.25.0"
+    "@vscode/vsce": "^3.5.0"
   },
   "scripts": {
     "package": "vsce package",
